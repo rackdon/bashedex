@@ -1,2 +1,2 @@
 # bashedex
-Create a pokedex through bash
+Create a pokedex through bash, creating an html file
